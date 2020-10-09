@@ -6,7 +6,8 @@
 	"Plugins": [
 		{
 			"Name": "Shaker",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f84f18ecc1264504a548b3e3bcdfcd06"
 		}
 	]
 }
